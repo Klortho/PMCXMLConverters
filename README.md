@@ -8,6 +8,10 @@ These XSL files convert PMC Style-compliant JATS XML:
 
 Both PubMed and CrossRef accept submissions of sets of multiple articles. These converters currently work with a single article at a time, but can be edited to convert and wrap multiple articles into a set.
 
+### See also
+
+[CrossRef](http://crossref.org) has also prepared a (preliminary) [XSLT converter](http://help.crossref.org/#nlm-to-crossref-conversion) for doing this same task.  You might want to check their version to see if it better meets your needs.
+
 - - -
 ### Public domain notice
 
